@@ -15,3 +15,5 @@ public class CurrencyConverter {
         return rs3;
     }
 }
+
+//this screen recording is about the environment working checking of our CI project.
