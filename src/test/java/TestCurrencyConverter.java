@@ -24,7 +24,7 @@ public class TestCurrencyConverter{
 
     @Test
     public void test_euro_to_rs(){
-        assertEquals(30, cc.euro_to_rs(3));
+        assertEquals(300, cc.euro_to_rs(3));
     }
 }
 
@@ -34,3 +34,4 @@ public class TestCurrencyConverter{
 // it is shown that the problem is with test cases not with the code..!!!
 // now lets try to fix the test case 1 and rebuild the project..!!!!!!
 //now lets do the same thing with testcase 2 fix it and rebuild the proejct...!!!!
+// now we are left with only one wrong test case lets fix the testcase 3 and rebuild the project ....!!!!
