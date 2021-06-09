@@ -30,3 +30,4 @@ public class TestCurrencyConverter{
 
 //finall all the test cases are ready to commit and build...
 // but first we try to build the wrong codes and test cases to check if the CI is working properly or not ....!!!
+// now lets try to fix the errors in code and see if this works to ru nthe project...!!!
