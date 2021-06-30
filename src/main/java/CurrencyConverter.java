@@ -10,6 +10,10 @@ public class CurrencyConverter {
         int rs2 = sek *9;
         return rs2;
     }
+    public int euro_to_rs(int euro){
+        int rs3 = euro + 100;
+        return rs3;
+    }
 
 }
 
