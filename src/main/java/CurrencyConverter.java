@@ -4,7 +4,7 @@ public class CurrencyConverter {
     }
     public int dollar_to_rs(int dollar){
         int rs1 = dollar * 70;
-        return 0;
+        return rs1;
     }
 
 }
@@ -25,5 +25,5 @@ public class CurrencyConverter {
 
 // no code is written for the test case 1.
 //due to no code for test case 1 the build is failed.
-// writing code for test case 1
+// writing correct code for test case 1
 
