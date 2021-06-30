@@ -6,6 +6,10 @@ public class CurrencyConverter {
         int rs1 = dollar * 70;
         return rs1;
     }
+    public int sek_to_rs(int sek){
+        int rs2 = sek *9;
+        return rs2;
+    }
 
 }
 
