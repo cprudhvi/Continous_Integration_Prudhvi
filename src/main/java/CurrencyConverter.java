@@ -11,7 +11,7 @@ public class CurrencyConverter {
         return rs2;
     }
     public int euro_to_rs(int euro){
-        int rs3 = euro + 100;
+        int rs3 = euro * 100;
         return rs3;
     }
 
