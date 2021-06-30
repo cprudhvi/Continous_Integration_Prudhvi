@@ -30,4 +30,4 @@ public class CurrencyConverter {
 // no code is written for the test case 1.
 //due to no code for test case 1 the build is failed.
 // writing correct code for test case 1
-
+// test case 2 with code and test case.
