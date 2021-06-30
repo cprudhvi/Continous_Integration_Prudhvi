@@ -20,6 +20,9 @@ public class TestCurrencyConverter{
     @Test
     public void test_sek_to_rs() { assertEquals( 90, cc.sek_to_rs(10)); }
 
+    @Test
+    public void test_euro_to_rs() { assertEquals( 300, cc.euro_to_rs(3)); }
+
 }
 
 // this recording is about Test driven development in ST_final Project.
